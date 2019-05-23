@@ -1,7 +1,7 @@
 # Ciao-Bello
 Test funzionalità
 
-Questa è semplicemente una prova delle funzionalità che mi mette a disposizione GitHUB
+Questa è semplicemente una prova delle funzionalità che mi mette a disposizione GitHub
 
 Alla fine vedrò di cancellarla o renderla privata
 
@@ -14,7 +14,7 @@ Fena
 # Ciao-Bello
 Function test
 
-This is simply a test of the features that GitHUB provides me with
+This is simply a test of the features that GitHub provides me with
 
 Eventually I'll try to delete it or make it private
 
